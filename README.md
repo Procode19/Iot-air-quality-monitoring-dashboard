@@ -249,57 +249,49 @@ Simulation includes:
 
 ### 🔌 Circuit Diagram
 
-**File:**  
-`wokwi_circuit.png`
-
 Shows complete ESP32 circuit wiring in Wokwi.
+
+![Wokwi Circuit](images/wokwi_circuit.png)
 
 ---
 
 ### ▶ Running Simulation
 
-**File:**  
-`running_simulation.png`
-
 Shows live ESP32 simulation running successfully.
+
+![Running Simulation](images/running_simulation.png)
 
 ---
 
 ### 📟 Serial Monitor (Normal Condition)
 
-**File:**  
-`serial_monitor_normal.png`
-
 Displays sensor values under safe air conditions.
+
+![Serial Monitor Normal](images/serial_monitor_normal.png)
 
 ---
 
 ### 🚨 Serial Monitor (Alert Condition)
 
-**File:**  
-`serial_monitor_alert.png`
-
 Displays hazardous pollution levels and alert generation.
+
+![Serial Monitor Alert](images/serial_monitor_alert.png)
 
 ---
 
 ### ☁️ ThingSpeak Dashboard
 
-**File:**  
-`thingspeak_dashboard.png`
-
 Displays complete cloud dashboard with all sensor fields.
+
+![ThingSpeak Dashboard](images/thingspeak_dashboard.png)
 
 ---
 
 ### 📈 ThingSpeak Graph
 
-**File:**  
-`thingspeak_graph.png`
-
 Displays sensor trends and AQI visualization.
 
----
+![ThingSpeak Graph](images/thingspeak_graph.png)
 
 ## 🚨 Alert System
 
