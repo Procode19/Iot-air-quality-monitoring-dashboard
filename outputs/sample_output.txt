@@ -1,0 +1,61 @@
+## Project Screenshots
+
+The following screenshots are included in the `images/` folder for project proof and documentation.
+
+### 1. Wokwi Circuit Diagram
+
+Description:
+Circuit connections between ESP32, DHT22, potentiometer (MQ135 simulation), LED, and buzzer.
+
+File Name:
+wokwi_circuit.png
+
+---
+
+### 2. Running Simulation
+
+Description:
+ESP32 simulation running successfully in Wokwi with live sensor monitoring.
+
+File Name:
+running_simulation.png
+
+---
+
+### 3. Serial Monitor (Normal Condition)
+
+Description:
+Serial monitor output showing normal air quality values without alert activation.
+
+File Name:
+serial_monitor_normal.png
+
+---
+
+### 4. Serial Monitor (Alert Condition)
+
+Description:
+Serial monitor output showing hazardous air quality and pollution alert activation.
+
+File Name:
+serial_monitor_alert.png
+
+---
+
+### 5. ThingSpeak Dashboard
+
+Description:
+Complete ThingSpeak dashboard displaying all four environmental monitoring fields.
+
+File Name:
+thingspeak_dashboard.png
+
+---
+
+### 6. ThingSpeak Graph Visualization
+
+Description:
+Graph visualization showing temperature, humidity, AQI, and gas value trends over time.
+
+File Name:
+thingspeak_graph.png
